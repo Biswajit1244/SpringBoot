@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SBProj-12-Profiles-ChildProfile/src/main/resources/applicatio-one.properties&apos; to &apos;application-one.properties&apos;" description="Rename resource &apos;applicatio-one.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/applicatio-one.properties" name="application-one.properties" stamp="1578981085405" updateReferences="true"/>
+</session>

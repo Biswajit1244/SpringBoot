@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SBProj-2-CLRunnerTest-JavaConfig&apos;" deleteContents="false" description="Delete resource &apos;SBProj-2-CLRunnerTest-JavaConfig&apos;" element1="/SBProj-2-CLRunnerTest-JavaConfig" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1613548186570"/>
+</session>

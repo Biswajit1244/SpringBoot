@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/SBProj-8-ApplicationRunner/src/main/java/com/biss/SbProj8ApplicationRunnerApplication.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.biss.SbProj8ApplicationRunnerApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--title=NIT --prod=kilu --prod=Liki Start Stop --draft=active Update"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SBProj-8-ApplicationRunner"/>
+</launchConfiguration>

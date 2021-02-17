@@ -1,0 +1,15 @@
+x: 45
+spring:  profiles:    include:    - QA,ut
+    
+---
+
+spring:
+  profiles: QA
+y: 23
+z: 33
+
+---
+
+spring:
+  profiles:  - ut
+x: 98767

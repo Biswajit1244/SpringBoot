@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application.yml&apos; to &apos;SBProj-25-Spring_MVC-CURD_operation_Using_Thymeleaf_Template/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;SBProj-20-Spring_DataJPA_QueryAnno&apos;&#x0D;&#x0A;- Destination element: &apos;SBProj-25-Spring_MVC-CURD_operation_Using_Thymeleaf_Template/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;application.yml&apos;" description="Copy file" destination="=SBProj-25-Spring_MVC-CURD_operation_Using_Thymeleaf_Template/src\/main\/resources=/maven.pomderived=/true=/" element1="src/main/resources/application.yml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1582305178274" units="0" version="1.0"/>
+</session>

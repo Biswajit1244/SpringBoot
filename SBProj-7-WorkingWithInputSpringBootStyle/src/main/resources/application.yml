@@ -1,0 +1,15 @@
+
+my:
+  emp:
+      emp-id: 466
+      emp-name: Bise
+      emp-sal: 6.54
+      proj: Disco,Gaming,Education
+      addrs:
+        area: Maninathpur
+        landmark: Temple
+        state: Hyd
+        pincode: 500038
+      
+        
+    

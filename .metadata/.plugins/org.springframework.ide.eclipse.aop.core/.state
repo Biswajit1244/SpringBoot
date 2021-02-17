@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SBProj-33b-MicroService-Spring-Eureka-Producer"/>
+<aop-project name="SBProj-18-Spring_DataJPA_Pagination-External_Database"/>
+<aop-project name="SBProj-1-RunnerTest"/>
+<aop-project name="SBProj-29-SpringBoot-Working-with-MongoDb-MongoRepository"/>
+<aop-project name="SBProj-30-SpringBoot-Working-with-MongoDb-MongoTemplate-Criteria"/>
+<aop-project name="SBProj-33a-MicroService-Spring-Eureka-Server"/>
+<aop-project name="SBProj-2-CLRunnerTest-JavaConfig"/>
+<aop-project name="SBProj-15-Email"/>
+<aop-project name="SBProj-24-Spring_MVC-Collection_DB_CURD_operation"/>
+<aop-project name="SBProj-32-SpringBoot-Batch-Programing_CSV-to-OracleDb"/>
+<aop-project name="SBProj-28-SpringBoot_RestFul_CURD_Operation"/>
+<aop-project name="SBProj-27-SpringBoot_RestFul-Input_To-RestController"/>
+<aop-project name="SBProj-17-Spring_Jdbc-External_Database"/>
+</aop-reference-model>
